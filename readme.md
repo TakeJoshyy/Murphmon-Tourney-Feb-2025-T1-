@@ -5,7 +5,7 @@
 ## Tourney
 
 Cutoff is 300 Attempts or Sep 8th 11:59 P.M. PST, whichever comes first
-Start August 12th end by Sep 8th
+Start August 9th end by Sep 8th
 Must be live and have VOD
 
 Cost of entry: Say nice things about the challenge, refer folks to my channel and the other creators participating. This tournament is meant to be fun and a way for me to challenge myself as a creator!
