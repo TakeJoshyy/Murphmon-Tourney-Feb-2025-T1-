@@ -1,4 +1,4 @@
-# Murphmon Tourney
+# Tourney #1: Murphmon FRLG
 
 ### [Murphmon](#Murphmon) | [Tourney Details](#Tourney) | [Tourney Points](#Point-Breakdown) | [Tourney Awards](#Awards)
 
