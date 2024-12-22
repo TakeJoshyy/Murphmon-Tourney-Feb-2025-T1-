@@ -34,7 +34,7 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Tower Rival               |
 | Rescue Fuji               |
 | Erika (2)                 |
-| Level up pivot twice      |
+| Level up pivot 2 levels   |
 | Koga  (2)                 |
 | Dojo                      |
 | Silph Rival               |
