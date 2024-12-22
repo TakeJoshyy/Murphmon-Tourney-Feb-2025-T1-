@@ -32,7 +32,6 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Tower Rival               |
 | Rescue Fuji               |
 | Erika (2)                 |
-| Safari                    |
 | Level up pivot twice      |
 | Koga  (2)                 |
 | Dojo                      |
@@ -50,7 +49,7 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Lance (2)                 |
 | Champ (3)                 |
 
-     28 Points available 
+     36 Points available 
 
 
 
