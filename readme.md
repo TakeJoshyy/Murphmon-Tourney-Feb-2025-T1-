@@ -52,18 +52,17 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
      36 Points available 
 
 
+|        Bonus Points       |
+| :-----------------------: |
+| Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points for the remainder of that run. All rules regarding abilities still apply i.e. (a 430 BST Pokemon may NOT have shell armor).               |
+| Jackpot Baby! If you are able to obtain a JACKPOT in 10 spins or less at the Celadon Game Corner, you will receive 1 bonus point! You may attempt 10 spins every seed you make it to the game corner. You MUST attempt the slots at 100% game speed and have a clip for proof! |
+| Its better to be lucky than good! In the route 4 Pokemon Center, you are given a "Magikarp" for 500 poke dollars. Whoever receives the Pokemon with the HIGHEST BST will receive 1 bonus point! Please confirm with a screenshot sent to my discord channel "Clips and mons". In the case of a tie, all challengers tied with the highest BST "Magikarp" will receive the bonus point. |
 
 ## Awards
 
-All funded by me (BigMurph619)
-1st place 15 gifted subs, 
-2nd 10 gifted, 
-3rd 5 gifted all 
-If anyone wins (28 Points), I'll throw an additional 5 gifted subs on top of your placement!
+Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be recognized in the Murphverse and will earn badges in the MurphMob discord. Additionally, there will be a bits "Pool". Award pool entrants are required to donate 500 bits to BigMurph619's channel to enter. 80% of earnings from ALL bits donated from Jan 6 - Jan 31 will go towards the awards pool. Example: if there are 6,000 bits in the "Pool", distributions will be 1st: 50%, 2nd: 30%, 3rd: 20%. Example: Pool of 6k... 1st: 3,000 bits, 2nd: 1800 bits, 3rd: 1200 bits.
 
-Many Runs may end up with ties, please note how many trainers you've cleared as a tie breaker. The tracker has this feature if you use streamerbot, etc.!
-
-
+Goodluck Challenger.
 ## Murphmon
 
 [Link to the murphmon rules!](https://github.com/reilnur/MurphmonRules/tree/main)
