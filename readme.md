@@ -6,6 +6,8 @@
 
 MurphLeague Tourney #1 is FRLG Murphmon
 
+Murphmon is a Super Kaizo IronMON inspired challenge that remains officially unbeaten.
+
 Dates: February 7th - 24th 12 AM PST start and end
 
 Must be live and have VOD
