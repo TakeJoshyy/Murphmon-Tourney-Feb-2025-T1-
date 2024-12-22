@@ -9,16 +9,17 @@ Dates: February 7th - 24th 12 AM PST start and end
 Must be live and have VOD
 Seed limit: 150
 
-**Cost of entry** 500 bits. You may still participate in the tournament without donating bits but you will not be eligible for the award pool. From January 6th - 31st 80% of revenue earned from bits in BigMurph619's channel will go towards the tourney award pool including entry fees.
+Cost of entry: 500 bits. You may still participate in the tournament without donating bits but you will not be eligible for the award pool. From January 6th - 31st 80% of revenue earned from bits in BigMurph619's channel will go towards the tourney award pool including entry fees.
 
 ## Point Breakdown
 Best individual points run (Only your PB run counts): all worth 1 point
 |           Points          | 
 | :-----------------------: | 
+| Rival #2                  |
 | Brock                     | 
 | Mt. Moon Exit             | 
 | Bridge Rival              | 
-| Bill                      |
+| Rescue Bill               |
 | Misty                     | 
 | SS Anne Rival             |
 | SS Anne Full Clear        |
@@ -27,24 +28,24 @@ Best individual points run (Only your PB run counts): all worth 1 point
 | Defeat Gio in Hideout     |
 | Tower Rival               |
 | Rescue Fuji               |
-| Erika                     |
+| Erika (2)                 |
 | Safari                    |
 | Level up pivot twice      |
-| Koga                      |
+| Koga  (2)                 |
 | Dojo                      |
 | Silph Rival               |
 | Silph Gio                 |
+| Silph Full Clear          |
 | Sabrina                   |
-| Walk out mansion with key |
 | Blaine                    |
-| Sevii quest               |
+| Complete Sevii quest      |
 | Gio                       |
-| Rival                     |
+| Pre-VR Rival              |
 | Lorelei                   |
 | Bruno                     |
-| Agatha                    |
-| Lance                     |
-| Champ                     |
+| Agatha (2)                |
+| Lance (2)                 |
+| Champ (3)                 |
 
      28 Points available 
 
