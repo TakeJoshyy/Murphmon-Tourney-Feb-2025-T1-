@@ -4,9 +4,10 @@
 
 ## Tourney
 
-Cutoff is 300 Attempts or Sep 8th 11:59 P.M. PST, whichever comes first
-Start August 9th end by Sep 8th
+MurphLeague Tourney #1 is FRLG Murphmon
+Dates: February 7th - 24th 12 AM PST start and end
 Must be live and have VOD
+Seed limit: 150
 
 Cost of entry: Say nice things about the challenge, refer folks to my channel and the other creators participating. This tournament is meant to be fun and a way for me to challenge myself as a creator!
 
