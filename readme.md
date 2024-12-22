@@ -9,21 +9,23 @@ Dates: February 7th - 24th 12 AM PST start and end
 Must be live and have VOD
 Seed limit: 150
 
-Cost of entry: Say nice things about the challenge, refer folks to my channel and the other creators participating. This tournament is meant to be fun and a way for me to challenge myself as a creator!
+Cost of entry: 500 bits. You may still participate in the tournament without donating bits but you will not be eligible for the award pool. From January 6th - 31st 80% of revenue earned from bits in BigMurph619's channel will go towards the tourney award pool including entry fees.
 
 ## Point Breakdown
 Best individual points run (Only your PB run counts): all worth 1 point
 |           Points          | 
 | :-----------------------: | 
 | Brock                     | 
-| Mt. Moon                  | 
+| Mt. Moon Exit             | 
 | Bridge Rival              | 
+| Bill                      |
 | Misty                     | 
-| Boat Rival                |
-| Surge                     |
-| Rock Tunnel               |
+| SS Anne Rival             |
+| SS Anne Full Clear        |
+| Lt. Surge                 |
+| Exit Rock Tunnel          |
+| Defeat Gio in Hideout     |
 | Tower Rival               |
-| Gio Hideout               |
 | Rescue Fuji               |
 | Erika                     |
 | Safari                    |
