@@ -59,7 +59,6 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points for the remainder of that run. All rules regarding abilities still apply i.e. (a 430 BST Pokemon may NOT have shell armor).               |
 | Jackpot Baby! If you are able to obtain a JACKPOT in 10 spins or less at the Celadon Game Corner, you will receive 1 bonus point! You may attempt 10 spins every seed you make it to the game corner. You MUST attempt the slots at 100% game speed and have a clip for proof! |
 | Its better to be lucky than good! In the route 4 Pokemon Center, you are given a "Magikarp" for 500 poke dollars. Whoever receives the Pokemon with the HIGHEST BST will receive 1 bonus point! Please confirm with a screenshot sent to my discord channel "Clips and mons". In the case of a tie, all challengers tied with the highest BST "Magikarp" will receive the bonus point. |
-| I spy with my little eye a special day for those far into the night sky...NICE. Solve this riddle, find this easter egg, and send me a clip directly to receive 1 Bonus point |
 
 ## Awards
 
