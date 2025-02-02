@@ -63,7 +63,7 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 
 ## Awards
 
-Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be recognized in the Murphverse and will earn badges in the MurphMob discord. Additionally, there will be a bits "Pool". Award pool entrants are required to donate 500 bits to BigMurph619's channel to enter. 80% of earnings from ALL bits donated from Jan 6 - Jan 31 will go towards the awards pool. Example: if there are 6,000 bits in the "Pool", distributions will be 1st: 50%, 2nd: 30%, 3rd: 20%. Example: Pool of 6k... 1st: 3,000 bits, 2nd: 1800 bits, 3rd: 1200 bits.
+Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be recognized in the Murphverse and will earn badges in the MurphMob discord.
 
 Goodluck Challenger.
 ## Murphmon
