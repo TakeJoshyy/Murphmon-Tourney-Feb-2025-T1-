@@ -14,7 +14,7 @@ Must be live and have VOD
 
 Seed limit: 150. Cumulative score will be your 3 highest scoring runs combined.
 
-Cost of entry: Free! The Murph Mob Council have funded a $100 reward pool.
+Cost of entry: Free! The Murph Mob Council have funded a $100 reward pool. ( Please note you have to be in the discord and have stated you're in for the prize pool )
 
 ## Point Breakdown
 Your cumulative score is your 3 best runs combined. All points are worth 1 point unless denoted by ().
