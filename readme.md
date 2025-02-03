@@ -12,9 +12,9 @@ Dates: February 7th - 24th 12 AM PST start and end
 
 Must be live and have VOD
 
-Seed limit: 150. Cumulative score will be your 3 highest scoring runs combined.
+Seed limit: 200. Cumulative score will be your 3 highest scoring runs combined.
 
-Cost of entry: Free! The Murph Mob Council have funded a $100 reward pool. ( Please note you have to be in the discord and have stated you're in for the prize pool )
+Cost of entry: Free! The MurphVerse Council have funded a $100 (worth in Twitch Bits) reward pool. ( Please note you have to be in the discord and have stated you're in for the prize pool )
 
 ## Point Breakdown
 Your cumulative score is your 3 best runs combined. All points are worth 1 point unless denoted by ().
@@ -62,7 +62,7 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 
 ## Awards
 
-Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be recognized in the Murphverse and will earn badges in the MurphMob discord.
+Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be recognized in the MurphVerse and will earn badges in the MurphVerse discord.
 
 Goodluck Challenger.
 ## Murphmon
