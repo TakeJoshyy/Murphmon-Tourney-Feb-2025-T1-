@@ -2,7 +2,7 @@
 
 ## Standings Format
 - **Competitors:**  
-  CaptDanieldore, AitchKay, DorktownPhantom, BeMidge, Domanski, BrokenPirates, Reilnur, BennyTots, Batcam22, McPlumber, Banana_Sen, Predsfan98, Roflmaogamers1, Kipoterp, Kyroteck, Brae12321
+  CaptDanieldore, AitchKay, DorktownPhantom, BeMidge, Domanski, BrokenPirates, Reilnur, BennyTots, Batcam22, McPlumber, Banana_Sen, Predsfan98, Roflmaogamers1, Kipoterp, Kyroteck, Brae12321, Kennyladdd
 
 ---
 
@@ -25,6 +25,7 @@
 | 0    | Kipoterp           | 0      | 0            | 200             |
 | 0    | Kyroteck           | 0      | 0            | 200             |
 | 0    | Brae12321          | 0      | 0            | 200             |
+| 0    | Kennyladdd         | 0      | 0            | 200             |
 
 ---
 
