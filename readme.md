@@ -67,4 +67,4 @@ Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be rec
 Goodluck Challenger.
 ## Murphmon
 
-[Link to the murphmon rules!](https://github.com/reilnur/MurphmonRules/tree/main)
+[Link to the murphmon rules!](https://github.com/TakeJoshyy/Murphmon)
