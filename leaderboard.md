@@ -9,10 +9,11 @@
 ## 📅 February 7th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
+| 1    | Roflmaogamers1     | 6      | 30           | 170             |
+| 2    | DorktownPhantom    | 4      | 13           | 187             |
+| 3    | BeMidge            | 2      | 23           | 177             |
 | 0    | CaptDanieldore     | 0      | 0            | 200             |
 | 0    | AitchKay           | 0      | 0            | 200             |
-| 1    | DorktownPhantom    | 4      | 13           | 187             |
-| 2    | BeMidge            | 2      | 23           | 177             |
 | 0    | Domanski           | 0      | 0            | 200             |
 | 0    | BrokenPirates      | 0      | 0            | 200             |
 | 0    | Reilnur            | 0      | 0            | 200             |
@@ -21,7 +22,6 @@
 | 0    | McPlumber          | 0      | 0            | 200             |
 | 0    | Banana_Sen         | 0      | 0            | 200             |
 | 0    | Predsfan98         | 0      | 0            | 200             |
-| 0    | Roflmaogamers1     | 0      | 0            | 200             |
 | 0    | Kipoterp           | 0      | 0            | 200             |
 | 0    | Kyroteck           | 0      | 0            | 200             |
 | 0    | Brae12321          | 0      | 0            | 200             |
