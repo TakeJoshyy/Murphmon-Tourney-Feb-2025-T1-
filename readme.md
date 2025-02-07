@@ -14,7 +14,12 @@ Must be live and have VOD
 
 Seed limit: 200. Cumulative score will be your 3 highest scoring runs combined.
 
-Cost of entry: Free! The MurphVerse Council have funded a $100 (worth in Twitch Bits) reward pool. ( Please note you have to be in the discord and have stated you're in for the prize pool )
+Cost of entry: Free! The MurphVerse Council have funded a base $100 reward pool.
+
+> 100$ Worth In Twitch Bits
+
+> You have to be in the discord and have stated you're in for the prize pool
+
 
 ## Point Breakdown
 Your cumulative score is your 3 best runs combined. All points are worth 1 point unless denoted by ().
