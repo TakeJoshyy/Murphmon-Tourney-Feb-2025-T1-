@@ -11,8 +11,8 @@
 |------|--------------------|--------|--------------|-----------------|
 | 0    | CaptDanieldore     | 0      | 0            | 200             |
 | 0    | AitchKay           | 0      | 0            | 200             |
-| 0    | DorktownPhantom    | 0      | 0            | 200             |
-| 0    | BeMidge            | 0      | 0            | 200             |
+| 1    | DorktownPhantom    | 4      | 13           | 187             |
+| 2    | BeMidge            | 2      | 23           | 177             |
 | 0    | Domanski           | 0      | 0            | 200             |
 | 0    | BrokenPirates      | 0      | 0            | 200             |
 | 0    | Reilnur            | 0      | 0            | 200             |
@@ -34,4 +34,4 @@
 
 ---
 
-_Last Updated: **06/02**_
+_Last Updated: **07/02**_
