@@ -13,11 +13,11 @@
 | 2    | DorktownPhantom    | 4      | 13           | 187             |
 | 3    | CamMan52           | 3      | 37           | 163             |
 | 4    | BeMidge            | 2      | 23           | 177             |
+| 5    | Reilnur            | 0      | 20           | 180             |
 | 0    | CaptDanieldore     | 0      | 0            | 200             |
 | 0    | AitchKay           | 0      | 0            | 200             |
 | 0    | Domanski           | 0      | 0            | 200             |
 | 0    | BrokenPirates      | 0      | 0            | 200             |
-| 0    | Reilnur            | 0      | 0            | 200             |
 | 0    | BennyTots          | 0      | 0            | 200             |
 | 0    | Batcam22           | 0      | 0            | 200             |
 | 0    | McPlumber          | 0      | 0            | 200             |
