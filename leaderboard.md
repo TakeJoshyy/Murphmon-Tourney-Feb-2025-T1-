@@ -9,11 +9,12 @@
 ## 📅 February 7th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
-| 1    | Roflmaogamers1     | 6      | 30           | 170             |
-| 2    | DorktownPhantom    | 4      | 13           | 187             |
-| 3    | CamMan52           | 3      | 37           | 163             |
-| 4    | BeMidge            | 2      | 23           | 177             |
-| 5    | Reilnur            | 0      | 20           | 180             |
+| 1    | Kennyladdd         | 9      | 63           | 137             |
+| 2    | Roflmaogamers1     | 6      | 30           | 170             |
+| 3    | DorktownPhantom    | 4      | 13           | 187             |
+| 4    | CamMan52           | 3      | 37           | 163             |
+| 5    | BeMidge            | 2      | 23           | 177             |
+| 6    | Reilnur            | 0      | 20           | 180             |
 | 0    | CaptDanieldore     | 0      | 0            | 200             |
 | 0    | AitchKay           | 0      | 0            | 200             |
 | 0    | Domanski           | 0      | 0            | 200             |
@@ -26,7 +27,6 @@
 | 0    | Kipoterp           | 0      | 0            | 200             |
 | 0    | Kyroteck           | 0      | 0            | 200             |
 | 0    | Brae12321          | 0      | 0            | 200             |
-| 0    | Kennyladdd         | 0      | 0            | 200             |
 | 0    | SlothGoss          | 0      | 0            | 200             |
 
 ---
