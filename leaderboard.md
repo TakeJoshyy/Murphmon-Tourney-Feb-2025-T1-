@@ -15,6 +15,7 @@
 | 4    | CamMan52           | 3      | 37           | 163             |
 | 5    | BeMidge            | 2      | 23           | 177             |
 | 6    | Reilnur            | 0      | 20           | 180             |
+| 7    | Banana_Sen         | 0      | 20           | 180             |
 | 0    | CaptDanieldore     | 0      | 0            | 200             |
 | 0    | AitchKay           | 0      | 0            | 200             |
 | 0    | Domanski           | 0      | 0            | 200             |
@@ -22,7 +23,6 @@
 | 0    | BennyTots          | 0      | 0            | 200             |
 | 0    | Batcam22           | 0      | 0            | 200             |
 | 0    | McPlumber          | 0      | 0            | 200             |
-| 0    | Banana_Sen         | 0      | 0            | 200             |
 | 0    | Predsfan98         | 0      | 0            | 200             |
 | 0    | Kipoterp           | 0      | 0            | 200             |
 | 0    | Kyroteck           | 0      | 0            | 200             |
