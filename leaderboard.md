@@ -36,7 +36,7 @@
 | 1    | BennyTots          | 22     | 90           | 110             |
 | 2    | Kennyladdd         | 19     | 63           | 20              |
 | 3    | Roflmaogamers1     | 19     | 67           | 133             |
-| 4    | SlothGoss          | 16     | ?            | 200             |
+| 4    | SlothGoss          | 16     | 89           | 111             |
 | 5    | Reilnur            | 14     | 60           | 140             |
 | 6    | BeMidge            | 10     | 35           | 165             |
 | 7    | DorktownPhantom    | 8      | 50           | 150             |
