@@ -1,4 +1,4 @@
-# Daily Standings (February 7th - 24th)
+# Standings (February 7th - 24th)
 
 ## Standings Format
 - **Competitors:**  
@@ -30,9 +30,30 @@
 | 0    | SlothGoss          | 0      | 0            | 200             |
 
 ---
-
+## 📅 February 10th Standings
+| Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
+|------|--------------------|--------|--------------|-----------------|
+| 1    | BennyTots          | 22     | 90           | 110             |
+| 2    | Kennyladdd         | 19     | 63           | 20              |
+| 3    | Roflmaogamers1     | 19     | 67           | 133             |
+| 4    | SlothGoss          | 16     | ?            | 200             |
+| 5    | Reilnur            | 14     | 60           | 140             |
+| 6    | BeMidge            | 10     | 35           | 165             |
+| 7    | DorktownPhantom    | 8      | 50           | 150             |
+| 8    | CamMan52           | 8      | 50           | 150             |
+| 9    | Domanski           | 4      | 125          | 75              |
+| 10   | Banana_Sen         | 3      | 72           | 128             |
+| 11   | BrokenPirates      | 2      | 60           | 140             |
+| 12   | Kipoterp           | 1      | 21           | 879             |
+| 13   | McPlumber          | 0      | 28           | 172             |
+| 14   | AitchKay           | 0      | 29           | 171             |
+| 0    | CaptDanieldore     | 0      | 0            | 200             |
+| 0    | Batcam22           | 0      | 0            | 200             |
+| 0    | Predsfan98         | 0      | 0            | 200             |
+| 0    | Kyroteck           | 0      | 0            | 200             |
+| 0    | Brae12321          | 0      | 0            | 200             |
 
 
 ---
 
-_Last Updated: **07/02**_
+_Last Updated: **10/02**_
