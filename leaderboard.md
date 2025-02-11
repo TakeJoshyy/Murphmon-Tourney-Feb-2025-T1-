@@ -5,31 +5,6 @@
   CaptDanieldore, AitchKay, DorktownPhantom, BeMidge, Domanski, BrokenPirates, Reilnur, BennyTots, Batcam22, McPlumber, Banana_Sen, Predsfan98, Roflmaogamers1, Kipoterp, Kyroteck, Brae12321, Kennyladdd, SlothGoss, CamMan52
 
 ---
-
-## 📅 February 7th Standings
-| Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
-|------|--------------------|--------|--------------|-----------------|
-| 1    | Kennyladdd         | 9      | 63           | 137             |
-| 2    | Roflmaogamers1     | 6      | 30           | 170             |
-| 3    | DorktownPhantom    | 4      | 13           | 187             |
-| 4    | CamMan52           | 3      | 37           | 163             |
-| 5    | BeMidge            | 2      | 23           | 177             |
-| 6    | Reilnur            | 0      | 20           | 180             |
-| 7    | Banana_Sen         | 0      | 20           | 180             |
-| 0    | CaptDanieldore     | 0      | 0            | 200             |
-| 0    | AitchKay           | 0      | 0            | 200             |
-| 0    | Domanski           | 0      | 0            | 200             |
-| 0    | BrokenPirates      | 0      | 0            | 200             |
-| 0    | BennyTots          | 0      | 0            | 200             |
-| 0    | Batcam22           | 0      | 0            | 200             |
-| 0    | McPlumber          | 0      | 0            | 200             |
-| 0    | Predsfan98         | 0      | 0            | 200             |
-| 0    | Kipoterp           | 0      | 0            | 200             |
-| 0    | Kyroteck           | 0      | 0            | 200             |
-| 0    | Brae12321          | 0      | 0            | 200             |
-| 0    | SlothGoss          | 0      | 0            | 200             |
-
----
 ## 📅 February 10th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
@@ -55,5 +30,31 @@
 
 
 ---
+
+## 📅 February 7th Standings
+| Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
+|------|--------------------|--------|--------------|-----------------|
+| 1    | Kennyladdd         | 9      | 63           | 137             |
+| 2    | Roflmaogamers1     | 6      | 30           | 170             |
+| 3    | DorktownPhantom    | 4      | 13           | 187             |
+| 4    | CamMan52           | 3      | 37           | 163             |
+| 5    | BeMidge            | 2      | 23           | 177             |
+| 6    | Reilnur            | 0      | 20           | 180             |
+| 7    | Banana_Sen         | 0      | 20           | 180             |
+| 0    | CaptDanieldore     | 0      | 0            | 200             |
+| 0    | AitchKay           | 0      | 0            | 200             |
+| 0    | Domanski           | 0      | 0            | 200             |
+| 0    | BrokenPirates      | 0      | 0            | 200             |
+| 0    | BennyTots          | 0      | 0            | 200             |
+| 0    | Batcam22           | 0      | 0            | 200             |
+| 0    | McPlumber          | 0      | 0            | 200             |
+| 0    | Predsfan98         | 0      | 0            | 200             |
+| 0    | Kipoterp           | 0      | 0            | 200             |
+| 0    | Kyroteck           | 0      | 0            | 200             |
+| 0    | Brae12321          | 0      | 0            | 200             |
+| 0    | SlothGoss          | 0      | 0            | 200             |
+
+---
+
 
 _Last Updated: **10/02**_
