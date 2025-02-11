@@ -14,8 +14,8 @@
 | 4    | SlothGoss          | 16     | 89           | 111             |
 | 5    | Reilnur            | 14     | 60           | 140             |
 | 6    | BeMidge            | 10     | 35           | 165             |
-| 7    | DorktownPhantom    | 8      | 50           | 150             |
-| 8    | CamMan52           | 8      | 50           | 150             |
+| 7    | CamMan52           | 11     | 87           | 113             |
+| 8    | DorktownPhantom    | 8      | 50           | 150             |
 | 9    | Domanski           | 4      | 125          | 75              |
 | 10   | Banana_Sen         | 3      | 72           | 128             |
 | 11   | BrokenPirates      | 2      | 60           | 140             |
