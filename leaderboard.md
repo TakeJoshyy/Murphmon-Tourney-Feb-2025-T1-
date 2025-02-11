@@ -19,7 +19,7 @@
 | 9    | Domanski           | 4      | 125          | 75              |
 | 10   | Banana_Sen         | 3      | 72           | 128             |
 | 11   | BrokenPirates      | 2      | 60           | 140             |
-| 12   | Kipoterp           | 1      | 21           | 879             |
+| 12   | Kipoterp           | 1      | 21           | 179             |
 | 13   | McPlumber          | 0      | 28           | 172             |
 | 14   | AitchKay           | 0      | 29           | 171             |
 | 0    | CaptDanieldore     | 0      | 0            | 200             |
