@@ -9,7 +9,7 @@
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
 | 1    | BennyTots          | 22     | 90           | 110             |
-| 2    | Kennyladdd         | 19     | 63           | 20              |
+| 2    | Kennyladdd         | 19     | 63           | 137              |
 | 3    | Roflmaogamers1     | 19     | 67           | 133             |
 | 4    | SlothGoss          | 16     | 89           | 111             |
 | 5    | Reilnur            | 14     | 60           | 140             |
