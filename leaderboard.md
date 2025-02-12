@@ -5,28 +5,30 @@
   CaptDanieldore, AitchKay, DorktownPhantom, BeMidge, Domanski, BrokenPirates, Reilnur, BennyTots, Batcam22, McPlumber, Banana_Sen, Predsfan98, Roflmaogamers1, Kipoterp, Kyroteck, Brae12321, Kennyladdd, SlothGoss, CamMan52
 
 ---
-## 📅 February 10th Standings
+## 📅 February 11th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
 | 1    | BennyTots          | 22     | 90           | 110             |
-| 2    | BeMidge            | 21     | 51           | 149             |
-| 3    | Kennyladdd         | 19     | 63           | 137             |
+| 2    | BeMidge            | 21     | 101          | 99              |
+| 3    | Kennyladdd         | 19     | 200          | 0               |
 | 4    | Roflmaogamers1     | 19     | 67           | 133             |
-| 5    | SlothGoss          | 16     | 89           | 111             |
-| 6    | Reilnur            | 14     | 60           | 140             |
-| 7    | CamMan52           | 11     | 87           | 113             |
-| 8    | DorktownPhantom    | 8      | 50           | 150             |
-| 9    | Domanski           | 4      | 125          | 75              |
-| 10   | Banana_Sen         | 3      | 72           | 128             |
-| 11   | BrokenPirates      | 2      | 60           | 140             |
-| 12   | Kipoterp           | 1      | 21           | 179             |
-| 13   | McPlumber          | 0      | 28           | 172             |
-| 14   | AitchKay           | 0      | 29           | 171             |
-| 0    | CaptDanieldore     | 0      | 0            | 200             |
-| 0    | Batcam22           | 0      | 0            | 200             |
+| 5    | Brae12321          | 18     | 28           | 172             |
+| 6    | SlothGoss          | 16     | 89           | 111             |
+| 7    | Reilnur            | 16     | 100          | 100             |
+| 8    | CamMan52           | 15     | 102          | 98              |
+| 9    | DorktownPhantom    | 8      | 50           | 150             |
+| 10   | CaptDanieldore     | 6      | 60           | 140             |
+| 11   | Kyroteck           | 5      | 36           | 164             |
+| 12   | Batcam22           | 4      | 33           | 167             |
+| 13   | Domanski           | 4      | 125          | 75              |
+| 14   | Kipoterp           | 3      | 37           | 163             |
+| 15   | Banana_Sen         | 3      | 72           | 128             |
+| 16   | McPlumber          | 3      | 91           | 109             |
+| 17   | BrokenPirates      | 2      | 60           | 140             |
+| 18   | AitchKay           | 0      | 29           | 171             |
 | 0    | Predsfan98         | 0      | 0            | 200             |
-| 0    | Kyroteck           | 0      | 0            | 200             |
-| 0    | Brae12321          | 0      | 0            | 200             |
+
+
 
 
 ---
