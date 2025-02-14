@@ -4,7 +4,7 @@
 
 # Competitors  
 
-AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, CamMan52, CaptDanieldore, Domanski, DorktownPhantom, Kennyladdd, Kipoterp, Kyroteck, McPlumber, Predsfan98, Reilnur, Roflmaogamers1, SlothGoss 
+AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, CamMan52, CaptDanieldore, Domanski, DorktownPhantom, Freestob, Kennyladdd, Kipoterp, Kyroteck, McPlumber, Predsfan98, Reilnur, Roflmaogamers1, SlothGoss 
 
 # Dates
 
@@ -30,6 +30,7 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 | 16   | AitchKay           | 3      | 89           | 111             |
 | 17   | McPlumber          | 3      | 91           | 109             |
 | 18   | BrokenPirates      | 2      | 125          | 75              |
+| 19   | Freestob           | 0      | 20           | 180             |
 | 0    | Predsfan98         | 0      | 0            | 200             |
 
  
@@ -56,6 +57,7 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 | 17   | BrokenPirates      | 2      | 60           | 140             |
 | 18   | AitchKay           | 0      | 29           | 171             |
 | 0    | Predsfan98         | 0      | 0            | 200             |
+| 0    | Freestob           | 0      | 0            | 200             |
 
 ---
 
@@ -81,17 +83,18 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 | 0    | Kyroteck           | 0      | 0            | 200             |
 | 0    | Brae12321          | 0      | 0            | 200             |
 | 0    | SlothGoss          | 0      | 0            | 200             |
+| 0    | Freestob           | 0      | 0            | 200             |
 
 ---
 
 # Graphs
 
 ## February 13th Standings
-![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss'],datasets:[{label:'Points',data:[3,3,4,29,22,18,2,15,6,4,8,19,3,5,3,0,22,32,16]}]}})
+![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob'],datasets:[{label:'Points',data:[3,3,4,29,22,18,2,15,6,4,8,19,3,5,3,0,22,32,16,0]}]}})
 
 
 ## February 11th Standings
-![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss'],datasets:[{label:'Points',data:[0,3,4,21,22,18,2,15,6,4,8,19,3,5,3,0,16,19,16]}]}})
+![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob'],datasets:[{label:'Points',data:[0,3,4,21,22,18,2,15,6,4,8,19,3,5,3,0,16,19,16]}]}})
 
 ## February 7th Standings 
-![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss'],datasets:[{label:'Points',data:[0,0,0,2,0,0,0,3,0,0,4,9,0,0,0,0,0,6,0]}]}})
+![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob'],datasets:[{label:'Points',data:[0,0,0,2,0,0,0,3,0,0,4,9,0,0,0,0,0,6,0]}]}})
