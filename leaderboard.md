@@ -2,8 +2,33 @@
 
 ## Standings Format
 - **Competitors:**  
-  CaptDanieldore, AitchKay, DorktownPhantom, BeMidge, Domanski, BrokenPirates, Reilnur, BennyTots, Batcam22, McPlumber, Banana_Sen, Predsfan98, Roflmaogamers1, Kipoterp, Kyroteck, Brae12321, Kennyladdd, SlothGoss, CamMan52
+CaptDanieldore, AitchKay, DorktownPhantom, BeMidge, Domanski, BrokenPirates, Reilnur, BennyTots, Batcam22, McPlumber, Banana_Sen, Predsfan98, Roflmaogamers1, Kipoterp, Kyroteck, Brae12321, Kennyladdd, SlothGoss, CamMan52 
 
+---
+## 📅 February 13th Standings
+| Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
+|------|--------------------|--------|--------------|-----------------|
+| 1    | Roflmaogamers1     | 32     | 183          | 17              |
+| 2    | BeMidge            | 29     | 115          | 85              |
+| 3    | BennyTots          | 22     | 90           | 110             |
+| 4    | Reilnur            | 22     | 140          | 60              | 
+| 5    | Kennyladdd         | 19     | 200          | 0               |
+| 6    | Brae12321          | 18     | 28           | 172             |
+| 7    | SlothGoss          | 16     | 89           | 111             |
+| 8    | CamMan52           | 15     | 138          | 62              |
+| 9    | DorktownPhantom    | 8      | 50           | 150             |
+| 10   | CaptDanieldore     | 6      | 110          | 90              |
+| 11   | Kyroteck           | 5      | 36           | 164             |
+| 12   | Batcam22           | 4      | 33           | 167             |
+| 13   | Domanski           | 4      | 125          | 75              |
+| 14   | Kipoterp           | 3      | 37           | 163             |
+| 15   | Banana_Sen         | 3      | 72           | 128             |
+| 16   | AitchKay           | 3      | 89           | 111             |
+| 17   | McPlumber          | 3      | 91           | 109             |
+| 18   | BrokenPirates      | 2      | 125          | 75              |
+| 0    | Predsfan98         | 0      | 0            | 200             |
+
+ 
 ---
 ## 📅 February 11th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
