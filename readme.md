@@ -1,6 +1,6 @@
 # Tourney #1: Murphmon FRLG
 
-### [Murphmon](#Murphmon) | [Tourney Details](#Tourney) | [Tourney Points](#Point-Breakdown) | [Tourney Awards](#Awards)
+### [Murphmon](#Murphmon) | [Tourney Details](#Tourney) | [Tourney Points](#Point-Breakdown) | [Tourney Awards](#Awards) | [LeaderBoard](https://github.com/TakeJoshyy/Murphmon-Tourney-Feb-2025-T1-/blob/main/leaderboard.md)
 
 ## Tourney
 
@@ -16,7 +16,7 @@ Seed limit: 200. Cumulative score will be your 3 highest scoring runs combined.
 
 Cost of entry: Free! The MurphVerse Council have funded a base $100 reward pool.
 
-> 100$ Worth In Twitch Bits
+> $100 Worth In Twitch Bits
 
 > You have to be in the discord and have stated you're in for the prize pool
 
