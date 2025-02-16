@@ -12,8 +12,8 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 ## 📅 February 15th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
-| 1    | BennyTots          | 36     | 192          | 8               |
-| 2    | Roflmaogamers1     | 32     | 183          | 17              |
+| 1    | Roflmaogamers1     | 38     | 183          | 17              |
+| 2    | BennyTots          | 36     | 192          | 8               |
 | 3    | BeMidge            | 30     | 115          | 85              |
 | 4    | Reilnur            | 24     | 180          | 20              | 
 | 5    | Kennyladdd         | 19     | 200          | 0               |
