@@ -14,7 +14,7 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 |------|--------------------|--------|--------------|-----------------|
 | 1    | BennyTots          | 36     | 192          | 8               |
 | 2    | Roflmaogamers1     | 32     | 183          | 17              |
-| 3    | BeMidge            | 29     | 115          | 85              |
+| 3    | BeMidge            | 30     | 115          | 85              |
 | 4    | Reilnur            | 24     | 180          | 20              | 
 | 5    | Kennyladdd         | 19     | 200          | 0               |
 | 6    | Brae12321          | 18     | 28           | 172             |
@@ -113,6 +113,9 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 ---
 
 # Graphs
+
+## February 15th Standings
+![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob'],datasets:[{label:'Points',data:[4,4,4,30,36,18,3,15,6,4,8,19,3,5,3,0,24,38,16,1]}]}})
 
 ## February 13th Standings
 ![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob'],datasets:[{label:'Points',data:[3,3,4,29,22,18,2,15,6,4,8,19,3,5,3,0,22,32,16,0]}]}})
