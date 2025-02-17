@@ -9,6 +9,32 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 # Dates
 
 ---
+## 📅 February 17th Standings
+| Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
+|------|--------------------|--------|--------------|-----------------|
+| 1    | Roflmaogamers1     | 42     | 200          | 0               |
+| 2    | BennyTots          | 36     | 192          | 8               |
+| 3    | BeMidge            | 30     | 115          | 85              |
+| 4    | Reilnur            | 24     | 200          | 0               | 
+| 5    | Kennyladdd         | 19     | 200          | 0               |
+| 6    | Brae12321          | 18     | 28           | 172             |
+| 7    | SlothGoss          | 16     | 89           | 111             |
+| 8    | CamMan52           | 15     | 200          | 0               |
+| 9    | Kyroteck           | 14     | 63           | 137             |
+| 10   | Banana_Sen         | 10     | 200          | 0               |
+| 11   | DorktownPhantom    | 8      | 50           | 150             |
+| 12   | CaptDanieldore     | 6      | 136          | 64              |
+| 13   | Batcam22           | 4      | 33           | 167             |
+| 14   | Domanski           | 4      | 125          | 75              |
+| 15   | AitchKay           | 4      | 125          | 75              |
+| 16   | Kipoterp           | 3      | 37           | 163             |
+| 17   | Freestob           | 3      | 61           | 139             |
+| 18   | McPlumber          | 3      | 91           | 109             |
+| 19   | BrokenPirates      | 3      | 200          | 0               |
+| 0    | Predsfan98         | 0      | 0            | 200             |
+---
+
+---
 ## 📅 February 15th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
@@ -113,6 +139,9 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 ---
 
 # Graphs
+
+## February 17th Standings
+![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob'],datasets:[{label:'Points',data:[4,10,4,30,36,18,3,15,6,4,8,19,3,14,3,0,24,42,16,3]}]}})
 
 ## February 15th Standings
 ![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob'],datasets:[{label:'Points',data:[4,4,4,30,36,18,3,15,6,4,8,19,3,5,3,0,24,38,16,1]}]}})
