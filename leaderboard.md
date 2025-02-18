@@ -31,7 +31,7 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 | 17   | Freestob           | 3      | 61           | 139             |
 | 18   | McPlumber          | 3      | 91           | 109             |
 | 19   | BrokenPirates      | 3      | 200          | 0               |
-| 20   | purp0s3            | 1      | 41           | 159             |
+| 20   | purp0s3            | 1      | 44           | 156             |
 | 0    | Predsfan98         | 0      | 0            | 200             |
 
 ---
