@@ -9,6 +9,32 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 # Dates
 
 ---
+## 📅 February 19th Standings
+| Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
+|------|--------------------|--------|--------------|-----------------|
+| 1    | Roflmaogamers1     | 42     | 200          | 0               |
+| 2    | BennyTots          | 39     | 192          | 8               |
+| 3    | BeMidge            | 30     | 115          | 85              |
+| 4    | Reilnur            | 24     | 200          | 0               | 
+| 5    | Kennyladdd         | 19     | 200          | 0               |
+| 6    | Brae12321          | 18     | 28           | 172             |
+| 7    | SlothGoss          | 16     | 89           | 111             |
+| 8    | CamMan52           | 15     | 200          | 0               |
+| 9    | Kyroteck           | 14     | 63           | 137             |
+| 10   | Kipoterp           | 12     | 66           | 134             |
+| 11   | CaptDanieldore     | 12     | 155          | 45              |
+| 12   | purp0s3            | 11     | 66           | 134             |
+| 13   | Banana_Sen         | 10     | 200          | 0               |
+| 14   | DorktownPhantom    | 8      | 50           | 150             |
+| 15   | Batcam22           | 4      | 33           | 167             |
+| 16   | Domanski           | 4      | 125          | 75              |
+| 17   | AitchKay           | 4      | 125          | 75              |
+| 18   | Freestob           | 3      | 61           | 139             |
+| 19   | McPlumber          | 3      | 91           | 109             |
+| 20   | BrokenPirates      | 3      | 200          | 0               |
+| 0    | Predsfan98         | 0      | 0            | 200             |
+
+---
 ## 📅 February 17th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
@@ -33,8 +59,6 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 | 19   | BrokenPirates      | 3      | 200          | 0               |
 | 20   | purp0s3            | 1      | 44           | 156             |
 | 0    | Predsfan98         | 0      | 0            | 200             |
-
----
 
 ---
 ## 📅 February 15th Standings
@@ -63,7 +87,6 @@ AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, Ca
 | 0    | purp0s3            | 0      | 0            | 200             |
 
 ---
-
 ## 📅 February 13th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
