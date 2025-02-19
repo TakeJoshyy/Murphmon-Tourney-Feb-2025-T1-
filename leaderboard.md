@@ -2,6 +2,8 @@
 
 # Standings (February 7th - 24th)
 
+> On the 24th, the leaderboard ranking will be based on cumulative points. During the tournament, it will be based on total points earned.
+
 # Competitors  
 
 [AitchKay](https://www.twitch.tv/aitchkay720), [Banana_Sen](https://www.twitch.tv/banana_sen), [Batcam22](https://www.twitch.tv/batcam22), [BeMidge](https://www.twitch.tv/bemidgegaming), [BennyTots](https://www.twitch.tv/bennytots), [Brae12321](https://www.twitch.tv/brae12321), [BrokenPirates](https://www.twitch.tv/thebrokenpirates), [CamMan52](https://www.twitch.tv/camman52), [CaptDanieldore](https://www.twitch.tv/captdanieldore), [Domanski](https://www.twitch.tv/domanski95), [DorktownPhantom](https://www.twitch.tv/dorktown_phantom), [Freestob](https://www.twitch.tv/freestob), [Kennyladdd](https://www.twitch.tv/kennyladdd), [Kipoterp](https://www.twitch.tv/kipoterp), [Kyroteck](https://www.twitch.tv/kyroteck), [McPlumber](https://www.twitch.tv/mcplumber1), [Predsfan98](https://www.twitch.tv/predsfan98), [Reilnur](https://www.twitch.tv/reilnur), [Roflmaogamers1](https://www.twitch.tv/roflmaogamers1), [SlothGoss](https://www.twitch.tv/slothgoss), [Imtyp0](https://www.twitch.tv/imtyp0) 
@@ -10,30 +12,30 @@
 
 ---
 ## 📅 February 19th Standings
-| Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
-|------|--------------------|--------|--------------|-----------------|
-| 1    | Roflmaogamers1     | 42     | 200          | 0               |
-| 2    | BennyTots          | 39     | 192          | 8               |
-| 3    | BeMidge            | 30     | 185          | 15              |
-| 4    | Reilnur            | 24     | 200          | 0               | 
-| 5    | Kennyladdd         | 19     | 200          | 0               |
-| 6    | Brae12321          | 18     | 28           | 172             |
-| 7    | CaptDanieldore     | 16     | 183          | 17              |
-| 8    | SlothGoss          | 16     | 89           | 111             |
-| 9    | CamMan52           | 15     | 200          | 0               |
-| 10   | Kyroteck           | 14     | 63           | 137             |
-| 11   | Kipoterp           | 12     | 66           | 134             |
-| 12   | purp0s3            | 11     | 67           | 133             |
-| 13   | Banana_Sen         | 10     | 200          | 0               |
-| 14   | Imtyp0             | 9      | 49           | 151             |
-| 15   | DorktownPhantom    | 8      | 50           | 150             |
-| 16   | Batcam22           | 4      | 33           | 167             |
-| 17   | Domanski           | 4      | 125          | 75              |
-| 18   | AitchKay           | 4      | 125          | 75              |
-| 19   | Freestob           | 3      | 61           | 139             |
-| 20   | McPlumber          | 3      | 91           | 109             |
-| 21   | BrokenPirates      | 3      | 200          | 0               |
-| 0    | Predsfan98         | 0      | 0            | 200             |
+| Rank | Competitor         | Points | Seeds Played | Seeds Remaining | Cumulative points |
+|------|--------------------|--------|--------------|-----------------|-------------------|
+| 1    | Roflmaogamers1     | 54     | 200          | 0               | 42                |
+| 2    | BennyTots          | 44     | 192          | 8               | 39                |
+| 3    | BeMidge            | 39     | 185          | 15              | 30                |
+| 4    | Reilnur            | 24     | 200          | 0               | 24                |
+| 5    | Kennyladdd         | 19     | 200          | 0               | 19                |
+| 6    | Brae12321          | 18     | 28           | 172             | 18                |
+| 7    | CaptDanieldore     | 16     | 183          | 17              | 16                |
+| 8    | SlothGoss          | 16     | 89           | 111             | 16                |
+| 9    | CamMan52           | 15     | 200          | 0               | 15                |
+| 10   | Kyroteck           | 14     | 63           | 137             | 13                |
+| 11   | Kipoterp           | 13     | 66           | 134             | 12                |
+| 13   | Banana_Sen         | 12     | 200          | 0               | 10                |
+| 12   | purp0s3            | 11     | 67           | 133             | 11                |
+| 14   | Imtyp0             | 9      | 49           | 151             | 9                 |
+| 15   | DorktownPhantom    | 8      | 50           | 150             | 8                 |
+| 16   | Batcam22           | 4      | 33           | 167             | 4                 |
+| 17   | Domanski           | 4      | 125          | 75              | 4                 |
+| 18   | AitchKay           | 4      | 125          | 75              | 4                 |
+| 19   | Freestob           | 3      | 61           | 139             | 3                 |
+| 20   | McPlumber          | 3      | 91           | 109             | 3                 |
+| 21   | BrokenPirates      | 3      | 200          | 0               | 3                 |
+| 0    | Predsfan98         | 0      | 0            | 200             | 0                 |
 
 ---
 ## 📅 February 17th Standings
@@ -48,7 +50,7 @@
 | 7    | SlothGoss          | 16     | 89           | 111             |
 | 8    | CamMan52           | 15     | 200          | 0               |
 | 9    | Kyroteck           | 14     | 63           | 137             |
-| 10   | Banana_Sen         | 10     | 200          | 0               |
+| 10   | Banana_Sen         | 12     | 200          | 0               |
 | 11   | DorktownPhantom    | 8      | 50           | 150             |
 | 12   | CaptDanieldore     | 6      | 136          | 64              |
 | 13   | Batcam22           | 4      | 33           | 167             |
