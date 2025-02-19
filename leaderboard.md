@@ -18,11 +18,11 @@
 | 4    | Reilnur            | 24     | 200          | 0               | 
 | 5    | Kennyladdd         | 19     | 200          | 0               |
 | 6    | Brae12321          | 18     | 28           | 172             |
-| 7    | SlothGoss          | 16     | 89           | 111             |
-| 8    | CamMan52           | 15     | 200          | 0               |
-| 9    | Kyroteck           | 14     | 63           | 137             |
-| 10   | Kipoterp           | 12     | 66           | 134             |
-| 11   | CaptDanieldore     | 12     | 155          | 45              |
+| 7    | CaptDanieldore     | 16     | 183          | 17              |
+| 8    | SlothGoss          | 16     | 89           | 111             |
+| 9    | CamMan52           | 15     | 200          | 0               |
+| 10   | Kyroteck           | 14     | 63           | 137             |
+| 11   | Kipoterp           | 12     | 66           | 134             |
 | 12   | purp0s3            | 11     | 66           | 134             |
 | 13   | Banana_Sen         | 10     | 200          | 0               |
 | 14   | Imtyp0             | 9      | 49           | 151             |
