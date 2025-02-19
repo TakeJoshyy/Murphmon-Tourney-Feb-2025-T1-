@@ -12,30 +12,30 @@
 
 ---
 ## 📅 February 19th Standings
-| Rank | Competitor         | Points | Seeds Played | Seeds Remaining | Cumulative points |
-|------|--------------------|--------|--------------|-----------------|-------------------|
-| 1    | Roflmaogamers1     | 54     | 200          | 0               | 42                |
-| 2    | BennyTots          | 44     | 192          | 8               | 39                |
-| 3    | BeMidge            | 39     | 185          | 15              | 30                |
-| 4    | Reilnur            | 24     | 200          | 0               | 24                |
-| 5    | Kennyladdd         | 19     | 200          | 0               | 19                |
-| 6    | Brae12321          | 18     | 28           | 172             | 18                |
-| 7    | CaptDanieldore     | 16     | 183          | 17              | 16                |
-| 8    | SlothGoss          | 16     | 89           | 111             | 16                |
-| 9    | CamMan52           | 15     | 200          | 0               | 15                |
-| 10   | Kyroteck           | 14     | 63           | 137             | 13                |
-| 11   | Kipoterp           | 13     | 66           | 134             | 12                |
-| 13   | Banana_Sen         | 12     | 200          | 0               | 10                |
-| 12   | purp0s3            | 11     | 67           | 133             | 11                |
-| 14   | Imtyp0             | 9      | 49           | 151             | 9                 |
-| 15   | DorktownPhantom    | 8      | 50           | 150             | 8                 |
-| 16   | Batcam22           | 4      | 33           | 167             | 4                 |
-| 17   | Domanski           | 4      | 125          | 75              | 4                 |
-| 18   | AitchKay           | 4      | 125          | 75              | 4                 |
-| 19   | Freestob           | 3      | 61           | 139             | 3                 |
-| 20   | McPlumber          | 3      | 91           | 109             | 3                 |
-| 21   | BrokenPirates      | 3      | 200          | 0               | 3                 |
-| 0    | Predsfan98         | 0      | 0            | 200             | 0                 |
+| Rank | Competitor         | Total Points | Seeds Played | Seeds Remaining | Cumulative points |
+|------|--------------------|--------------|--------------|-----------------|-------------------|
+| 1    | Roflmaogamers1     | 54           | 200          | 0               | 42                |
+| 2    | BennyTots          | 44           | 192          | 8               | 39                |
+| 3    | BeMidge            | 39           | 185          | 15              | 30                |
+| 4    | Reilnur            | 24           | 200          | 0               | 24                |
+| 5    | Kennyladdd         | 19           | 200          | 0               | 19                |
+| 6    | Brae12321          | 18           | 28           | 172             | 18                |
+| 7    | CaptDanieldore     | 16           | 183          | 17              | 16                |
+| 8    | SlothGoss          | 16           | 89           | 111             | 16                |
+| 9    | CamMan52           | 15           | 200          | 0               | 15                |
+| 10   | Kyroteck           | 14           | 63           | 137             | 13                |
+| 11   | Kipoterp           | 13           | 66           | 134             | 12                |
+| 13   | Banana_Sen         | 12           | 200          | 0               | 10                |
+| 12   | purp0s3            | 11           | 67           | 133             | 11                |
+| 14   | Imtyp0             | 9            | 49           | 151             | 9                 |
+| 15   | DorktownPhantom    | 8            | 50           | 150             | 8                 |
+| 16   | Batcam22           | 4            | 33           | 167             | 4                 |
+| 17   | Domanski           | 4            | 125          | 75              | 4                 |
+| 18   | AitchKay           | 4            | 125          | 75              | 4                 |
+| 19   | Freestob           | 3            | 61           | 139             | 3                 |
+| 20   | McPlumber          | 3            | 91           | 109             | 3                 |
+| 21   | BrokenPirates      | 3            | 200          | 0               | 3                 |
+| 0    | Predsfan98         | 0            | 0            | 200             | 0                 |
 
 ---
 ## 📅 February 17th Standings
