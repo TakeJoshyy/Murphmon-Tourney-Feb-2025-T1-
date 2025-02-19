@@ -23,7 +23,7 @@
 | 9    | CamMan52           | 15     | 200          | 0               |
 | 10   | Kyroteck           | 14     | 63           | 137             |
 | 11   | Kipoterp           | 12     | 66           | 134             |
-| 12   | purp0s3            | 11     | 66           | 134             |
+| 12   | purp0s3            | 11     | 67           | 133             |
 | 13   | Banana_Sen         | 10     | 200          | 0               |
 | 14   | Imtyp0             | 9      | 49           | 151             |
 | 15   | DorktownPhantom    | 8      | 50           | 150             |
