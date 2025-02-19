@@ -41,7 +41,7 @@
 ## 📅 February 17th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
-| 1    | Roflmaogamers1     | 42     | 200          | 0               |
+| 1    | Roflmaogamers1     | 54     | 200          | 0               |
 | 2    | BennyTots          | 36     | 192          | 8               |
 | 3    | BeMidge            | 30     | 115          | 85              |
 | 4    | Reilnur            | 24     | 200          | 0               | 
