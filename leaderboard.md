@@ -4,7 +4,7 @@
 
 # Competitors  
 
-AitchKay, Banana_Sen, Batcam22, BeMidge, BennyTots, Brae12321, BrokenPirates, CamMan52, CaptDanieldore, Domanski, DorktownPhantom, Freestob, Kennyladdd, Kipoterp, Kyroteck, McPlumber, Predsfan98, Reilnur, Roflmaogamers1, SlothGoss, Imtyp0 
+[AitchKay](https://www.twitch.tv/aitchkay720), [Banana_Sen](https://www.twitch.tv/banana_sen), [Batcam22](https://www.twitch.tv/batcam22), [BeMidge](https://www.twitch.tv/bemidgegaming), [BennyTots](https://www.twitch.tv/bennytots), [Brae12321](https://www.twitch.tv/brae12321), [BrokenPirates](https://www.twitch.tv/thebrokenpirates), [CamMan52](https://www.twitch.tv/camman52), [CaptDanieldore](https://www.twitch.tv/captdanieldore), [Domanski](https://www.twitch.tv/domanski95), [DorktownPhantom](https://www.twitch.tv/dorktown_phantom), [Freestob](https://www.twitch.tv/freestob), [Kennyladdd](https://www.twitch.tv/kennyladdd), [Kipoterp](https://www.twitch.tv/kipoterp), [Kyroteck](https://www.twitch.tv/kyroteck), [McPlumber](https://www.twitch.tv/mcplumber1), [Predsfan98](https://www.twitch.tv/predsfan98), [Reilnur](https://www.twitch.tv/reilnur), [Roflmaogamers1](https://www.twitch.tv/roflmaogamers1), [SlothGoss](https://www.twitch.tv/slothgoss), [Imtyp0](https://www.twitch.tv/imtyp0) 
 
 # Dates
 
