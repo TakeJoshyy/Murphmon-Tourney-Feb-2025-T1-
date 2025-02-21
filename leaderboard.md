@@ -9,6 +9,33 @@
 # Dates
 
 ---
+## 📅 February 21th Standings
+| Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
+|------|--------------------|--------|--------------|-----------------|
+| 1    | BennyTots          | 44     | 192          | 8               |
+| 2    | Roflmaogamers1     | 42     | 200          | 0               |
+| 3    | CaptDanieldore     | 31     | 183          | 17              |
+| 4    | BeMidge            | 30     | 185          | 15              |
+| 5    | Reilnur            | 24     | 200          | 0               | 
+| 6    | Kennyladdd         | 19     | 200          | 0               |
+| 7    | Brae12321          | 18     | 28           | 172             |
+| 8    | SlothGoss          | 16     | 200          | 0               |
+| 9    | CamMan52           | 15     | 200          | 0               |
+| 10   | Kyroteck           | 14     | 63           | 137             |
+| 11   | Kipoterp           | 12     | 66           | 134             |
+| 12   | purp0s3            | 11     | 67           | 133             |
+| 13   | Banana_Sen         | 10     | 200          | 0               |
+| 13   | Batcam22           | 9      | 161          | 39              |
+| 15   | Imtyp0             | 9      | 49           | 151             |
+| 16   | DorktownPhantom    | 8      | 73           | 127             |
+| 17   | Freestob           | 8      | 61           | 139             |
+| 18   | Domanski           | 4      | 170          | 30              |
+| 19   | AitchKay           | 4      | 125          | 75              |
+| 20   | McPlumber          | 3      | 91           | 109             |
+| 21   | BrokenPirates      | 3      | 200          | 0               |
+| 0    | Predsfan98         | 0      | 0            | 200             |
+
+---
 ## 📅 February 19th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
 |------|--------------------|--------|--------------|-----------------|
