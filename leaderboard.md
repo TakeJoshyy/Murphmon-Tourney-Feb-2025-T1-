@@ -202,8 +202,11 @@
 
 # Graphs
 
+## February 21th Standings
+![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob','purp0s3','Imtyp0'],datasets:[{label:'Points',data:[4,10,9,30,44,18,3,15,31,4,8,19,12,14,3,0,24,42,16,3,11,9]}]}})
+
 ## February 19th Standings
-![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob','purp0s3','Imtyp0'],datasets:[{label:'Points',data:[4,10,4,30,39,18,3,15,12,4,8,19,12,14,3,0,24,42,16,3,11,9]}]}})
+![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob','purp0s3','Imtyp0'],datasets:[{label:'Points',data:[4,10,4,30,39,18,3,15,16,4,8,19,12,14,3,0,24,42,16,3,11,9]}]}})
 
 ## February 17th Standings
 ![Standings Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['AitchKay','Banana_Sen','Batcam22','BeMidge','BennyTots','Brae12321','BrokenPirates','CamMan52','CaptDanieldore','Domanski','DorktownPhantom','Kennyladdd','Kipoterp','Kyroteck','McPlumber','Predsfan98','Reilnur','Roflmaogamers1','SlothGoss','Freestob','purp0s3','Imtyp0'],datasets:[{label:'Points',data:[4,10,4,30,36,18,3,15,6,4,8,19,3,14,3,0,24,42,16,3,1,0]}]}})
