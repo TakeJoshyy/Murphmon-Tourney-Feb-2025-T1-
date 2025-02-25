@@ -8,6 +8,31 @@
 
 # Dates
 
+## 📅 February 24th Standings
+| Rank | Competitor         | Points | Seeds Played | Seeds Remaining | Highest “Magikarp” |
+|------|--------------------|--------|--------------|-----------------|--------------------|
+| 1    | BennyTots          | 46     | 200          | 0               | 485                |
+| 2    | Roflmaogamers1     | 42     | 200          | 0               | 500                |
+| 3    | CaptDanieldore     | 33     | 200          | 0               | 680                |
+| 4    | BeMidge            | 30     | 200          | 0               | 515                |
+| 5    | Reilnur            | 24     | 200          | 0               | 600                |
+| 6    | Kennyladdd         | 19     | 200          | 0               |                    |
+| 7    | Brae12321          | 18     | 28           | 172             | 500                |
+| 8    | AitchKay           | 17     | 200          | 0               | 500                |
+| 9    | SlothGoss          | 16     | 200          | 0               |                    |
+| 10   | CamMan52           | 15     | 200          | 0               |                    |
+| 11   | Kyroteck           | 14     | 63           | 137             |                    |
+| 12   | Kipoterp           | 12     | 66           | 134             | 485                |
+| 13   | purp0s3            | 11     | 200          | 0               |                    |
+| 14   | Banana_Sen         | 10     | 200          | 0               | 500                |
+| 15   | Batcam22           | 10     | 200          | 0               |                    |
+| 16   | Imtyp0             | 9      | 49           | 151             |                    |
+| 17   | DorktownPhantom    | 8      | 73           | 127             | 380                | 
+| 18   | Freestob           | 8      | 61           | 139             |                    |
+| 19   | Domanski           | 4      | 170          | 30              |                    |
+| 20   | McPlumber          | 3      | 91           | 109             |                    |
+| 21   | BrokenPirates      | 3      | 200          | 0               |                    |
+
 ---
 ## 📅 February 21th Standings
 | Rank | Competitor         | Points | Seeds Played | Seeds Remaining |
